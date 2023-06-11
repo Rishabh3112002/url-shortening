@@ -1,0 +1,4 @@
+{
+  "mongoURi": "mongodb+srv://<username>:<password>@<cluster-name>.0reut5y.mongodb.net/?retryWrites=true&w=majority",
+  "baseurl": "http://localhost:3001"
+}
